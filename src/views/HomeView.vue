@@ -34,7 +34,7 @@ const handleLogin = () => {
             </ul>
           </div>
           <div class="hero-image-wrap">
-            <img src="/assets/wukong-hero.svg" alt="悟空系统视觉图" />
+            <img src="/assets/wukong.png" alt="悟空系统视觉图" />
           </div>
         </article>
 
@@ -58,3 +58,4 @@ const handleLogin = () => {
     </section>
   </main>
 </template>
+
